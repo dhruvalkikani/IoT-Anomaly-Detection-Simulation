@@ -1,7 +1,8 @@
 # Data
-Data/          # Ignore entire Data folder and its contents
-*.csv          # Global CSV ignore (safety net)
-*.pkl          # Global PKL ignore (safety net)
+Data/India/
+Data/China/
+*.csv
+*.pkl
 
 # IDE
 .idea/
